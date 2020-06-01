@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45cca462-38f3-43ca-ba81-f55e13674514" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1chcNbUwXRgqPaUsqx6IxEuyPSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45cca462-38f3-43ca-ba81-f55e13674514" name="Default Changelist" comment="" />
+      <created>1590984226722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590984226722</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ss">
+      <created>1590984330474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590984330474</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="28" width="934" height="1018" key="CommitChangelistDialog2" timestamp="1590984330409">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="700" y="28" width="934" height="1018" key="CommitChangelistDialog2/0.28.1920.1018@0.28.1920.1018" timestamp="1590984330409" />
+    <state x="955" y="297" width="424" height="493" key="FileChooserDialogImpl" timestamp="1590984428319">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="955" y="297" width="424" height="493" key="FileChooserDialogImpl/0.28.1920.1018@0.28.1920.1018" timestamp="1590984428319" />
+    <state width="1437" height="235" key="GridCell.Tab.0.bottom" timestamp="1590984909190">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1437" height="235" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909190" />
+    <state width="1437" height="235" key="GridCell.Tab.0.center" timestamp="1590984909188">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1437" height="235" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909188" />
+    <state width="1437" height="235" key="GridCell.Tab.0.left" timestamp="1590984909187">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1437" height="235" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909187" />
+    <state width="1437" height="235" key="GridCell.Tab.0.right" timestamp="1590984909189">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1437" height="235" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909189" />
+    <state x="767" y="273" width="800" height="541" key="Vcs.Push.Dialog.v2" timestamp="1590984956721">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="767" y="273" width="800" height="541" key="Vcs.Push.Dialog.v2/0.28.1920.1018@0.28.1920.1018" timestamp="1590984956721" />
+  </component>
+</project>
