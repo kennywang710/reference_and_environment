@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45cca462-38f3-43ca-ba81-f55e13674514" name="Default Changelist" comment="" />
+    <list default="true" id="45cca462-38f3-43ca-ba81-f55e13674514" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1chcNbUwXRgqPaUsqx6IxEuyPSi" />
@@ -34,7 +41,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test02">
     <configuration name="test01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,8 +63,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test02" />
         <item itemvalue="Python.test01" />
       </list>
     </recent_temporary>
@@ -80,41 +109,57 @@
       <option name="project" value="LOCAL" />
       <updated>1590984330474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sssss111111">
+      <created>1590984997422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590984997422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bracn2three">
+      <created>1590993846933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590993846933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ss" />
-    <option name="LAST_COMMIT_MESSAGE" value="ss" />
+    <MESSAGE value="sssss111111" />
+    <MESSAGE value="bracn2three" />
+    <option name="LAST_COMMIT_MESSAGE" value="bracn2three" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="700" y="28" width="934" height="1018" key="CommitChangelistDialog2" timestamp="1590984330409">
+    <state x="700" y="28" width="934" height="1018" key="CommitChangelistDialog2" timestamp="1590993846828">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state x="700" y="28" width="934" height="1018" key="CommitChangelistDialog2/0.28.1920.1018@0.28.1920.1018" timestamp="1590984330409" />
+    <state x="700" y="28" width="934" height="1018" key="CommitChangelistDialog2/0.28.1920.1018@0.28.1920.1018" timestamp="1590993846828" />
     <state x="955" y="297" width="424" height="493" key="FileChooserDialogImpl" timestamp="1590984428319">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
     <state x="955" y="297" width="424" height="493" key="FileChooserDialogImpl/0.28.1920.1018@0.28.1920.1018" timestamp="1590984428319" />
-    <state width="1437" height="235" key="GridCell.Tab.0.bottom" timestamp="1590984909190">
+    <state width="718" height="235" key="GridCell.Tab.0.bottom" timestamp="1590994148266">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state width="1437" height="235" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909190" />
-    <state width="1437" height="235" key="GridCell.Tab.0.center" timestamp="1590984909188">
+    <state width="718" height="235" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1590994148266" />
+    <state width="718" height="235" key="GridCell.Tab.0.center" timestamp="1590994148262">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state width="1437" height="235" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909188" />
-    <state width="1437" height="235" key="GridCell.Tab.0.left" timestamp="1590984909187">
+    <state width="718" height="235" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1590994148262" />
+    <state width="718" height="235" key="GridCell.Tab.0.left" timestamp="1590994148260">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state width="1437" height="235" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909187" />
-    <state width="1437" height="235" key="GridCell.Tab.0.right" timestamp="1590984909189">
+    <state width="718" height="235" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1590994148260" />
+    <state width="718" height="235" key="GridCell.Tab.0.right" timestamp="1590994148264">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state width="1437" height="235" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1590984909189" />
-    <state x="767" y="273" width="800" height="541" key="Vcs.Push.Dialog.v2" timestamp="1590984956721">
+    <state width="718" height="235" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1590994148264" />
+    <state x="767" y="273" width="800" height="541" key="Vcs.Push.Dialog.v2" timestamp="1590993849549">
       <screen x="0" y="28" width="1920" height="1018" />
     </state>
-    <state x="767" y="273" width="800" height="541" key="Vcs.Push.Dialog.v2/0.28.1920.1018@0.28.1920.1018" timestamp="1590984956721" />
+    <state x="767" y="273" width="800" height="541" key="Vcs.Push.Dialog.v2/0.28.1920.1018@0.28.1920.1018" timestamp="1590993849549" />
   </component>
 </project>
